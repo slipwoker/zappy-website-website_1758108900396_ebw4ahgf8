@@ -1,0 +1,1 @@
+document.querySelector('.cta').addEventListener('click', function() {alert('Contact form goes here!');});
